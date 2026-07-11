@@ -1,0 +1,6 @@
+{
+  "name": "Aura AI Fitness Tracker",
+  "description": "Premium AI-powered fitness and nutrition assistant with smart meal scanning, workout generation, and analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
